@@ -16,3 +16,14 @@ This dashboard is designed for :
     1-  Researchers analyzing LLM performance for academic or industrial purposes
     2-  Developers choosing the most suitable model for their applications
     3-  AI Enthusiasts exploring trends and comparative strengths of LLMs
+### Dashboard First Page :
+
+![Dashboard First Page](./images/FirstPage.png)
+
+### Dashboard Second Page :
+
+![Dashboard Second Page](./images/SecondPage.png)
+
+### Dashboard Third Page :
+
+![Dashboard Third Page](./images/ThirdPage.png)
